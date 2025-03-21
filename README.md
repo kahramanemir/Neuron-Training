@@ -1,4 +1,4 @@
-# Neural Training
+# Neuron Training
 
 ## 📌 About The Project
 
