@@ -69,4 +69,4 @@ This project is licensed under the MIT License.
 
 ## 📩 Contact
 
-For support or contributions, open an issue or pull request on [GitHub](https://github.com/your-repo-link)[.](https://github.com/your-repo-link)  
+For any inquiries or contributions, feel free to open an issue or pull request on GitHub.
