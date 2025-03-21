@@ -1,26 +1,26 @@
-# Neuron Training
+# Neural Network Training
 
 ## 📌 About The Project
 
-This project implements a simple neuron training model using a perceptron-like approach. It takes in a dataset with two inputs and a target value (student study time, attendance, and actual grade) and adjusts weights using a basic gradient descent algorithm to minimize error.
+This project implements a simple neural network training model using a perceptron-like approach. It takes in a dataset with two inputs and a target value (student study time, attendance, and actual grade) and adjusts weights using a basic gradient descent algorithm to minimize error.
 
 ## 🚀 Features
 
-✅ Random weight initialization
-✅ Dataset normalization for better convergence
-✅ Training through iterative weight adjustment
-✅ Mean Squared Error (MSE) calculation
-✅ Console output for real-time results
-✅ User input for additional predictions
+✅ Random weight initialization  
+✅ Dataset normalization for better convergence  
+✅ Training through iterative weight adjustment  
+✅ Mean Squared Error (MSE) calculation  
+✅ Console output for real-time results  
+✅ User input for additional predictions  
 
 ## ⚡ Getting Started
 
 To run this project, follow these steps:
 
-1. Clone the repository
-2. Open the project in a C# development environment (e.g., Visual Studio)
-3. Run the `Program.cs` file
-4. Follow the console instructions for additional predictions
+1. Clone the repository  
+2. Open the project in a C# development environment (e.g., Visual Studio)  
+3. Run the `Program.cs` file  
+4. Follow the console instructions for additional predictions  
 
 ## 📜 Algorithm Details
 
@@ -69,5 +69,4 @@ This project is licensed under the MIT License.
 
 ## 📩 Contact
 
-For support or contributions, open an issue or pull request on [GitHub](https://github.com/your-repo-link)[.](https://github.com/your-repo-link)
-
+For support or contributions, open an issue or pull request on [GitHub](https://github.com/your-repo-link)[.](https://github.com/your-repo-link)  
